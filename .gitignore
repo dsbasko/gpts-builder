@@ -1,0 +1,14 @@
+/temp
+/vendor
+/gpt.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea
+.vscode
+
+# Git
+!.gitkeep
